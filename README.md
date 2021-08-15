@@ -17,9 +17,6 @@ Using Programming Language of your choice (Java/Python/Scala), calculate the fol
 - Average price of product
 - Share of five star products
 
-###### *Timeline*
-Please add a link to the form with your source code by the end of August 15.
-
 ###### *SQL Representation*
 select avg(price), (sum(rating_five_count) / sum(rating_count)) * 100 as five_percentage, origin_country
 from summer_products
