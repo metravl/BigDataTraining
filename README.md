@@ -4,7 +4,7 @@ BigData Training Homework
 ##### Content 
 1. [Entry Task](#entryTask)  
 
-<a name="entryTask"><h2>Entry Task</h2></a>
+<a name="entryTask"><h2>1. Entry Task</h2></a>
 
 ###### *Task*
 Find the attached file test-task_dataset_summer_products.cvs with the clothing products dataset. For each product, there are the following fields of interests:
@@ -31,4 +31,4 @@ In the attached csv file
 
 -------
 ###### *Result*
-Here is a [folder](https://github.com/metravl/BigDataTraining) with the result code.
+Here is a [folder](https://github.com/metravl/BigDataTraining/tree/main/EntryTask/CsvProcessor) with the result code.
