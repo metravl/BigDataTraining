@@ -49,4 +49,4 @@ Follow the next rules:
 
 -------
 ###### *Result*
-Here is a [draw.io file](https://github.com/metravl/BigDataTraining/tree/main/HomeWork1/FlightEvents_ER_diagram.drawio) with the result schema.
+Here is a [draw.io file](https://raw.githubusercontent.com/metravl/BigDataTraining/main/HomeWork1/FlightEvents_ER_diagram.drawio) with the result schema.
