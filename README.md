@@ -3,6 +3,7 @@ Big Data Training Homework
 
 ##### Content 
 1. [Entry Task](#entryTask)  
+2. [Home Work #1](#homeWork1)  
 
 <a name="entryTask"><h2>1. Entry Task</h2></a>
 
@@ -29,3 +30,23 @@ In the attached csv file
 -------
 ###### *Result*
 Here is a [folder](https://github.com/metravl/BigDataTraining/tree/main/EntryTask/CsvProcessor) with the result code.
+
+<a name="homeWork1"><h2>2. Home Work #1</h2></a>
+
+###### Persistent layer design
+
+In this lab you will make flat star schema ER-diagram.
+
+Use flight delays https://www.kaggle.com/usdot/flight-delays?select=flights.csv to make initial analysis
+
+###### Exercise: Create diagram
+
+Use tool of your preference (draw.io is recommended) to make a ER-diagram.
+Follow the next rules:
+1. Use every column in the dataset
+2. Diagram has to have no complex/custom data types
+3. Final design has to follow star schema principles
+
+-------
+###### *Result*
+Here is a [draw.io file](https://github.com/metravl/BigDataTraining/tree/main/HomeWork1/FlightEvents_ER_diagram.drawio) with the result schema.
