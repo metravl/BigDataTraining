@@ -2,10 +2,11 @@ Big Data Training Homework
 ---------------------
 
 ##### Content 
-1. [Entry Task](#entryTask)  
-2. [Home Work #1](#homeWork1)  
+0. [Entry Task](#entryTask)  
+1. [Home Work #1](#homeWork1) 
+2. [Home Work #2](#homeWork2)  
 
-<a name="entryTask"><h2>1. Entry Task</h2></a>
+<a name="entryTask"><h2>0. Entry Task</h2></a>
 
 ###### *Task*
 Find the attached file test-task_dataset_summer_products.cvs with the clothing products dataset. For each product, there are the following fields of interests:
@@ -31,7 +32,7 @@ In the attached csv file
 ###### *Result*
 Here is a [folder](https://github.com/metravl/BigDataTraining/tree/main/EntryTask/CsvProcessor) with the result code.
 
-<a name="homeWork1"><h2>2. Home Work #1</h2></a>
+<a name="homeWork1"><h2>1. Home Work #1</h2></a>
 
 ###### Persistent layer design
 
@@ -50,3 +51,19 @@ Follow the next rules:
 -------
 ###### *Result*
 Here is a [draw.io file](https://raw.githubusercontent.com/metravl/BigDataTraining/main/HomeWork1/FlightEvents_ER_diagram.drawio) with the result schema.
+
+<a name="homeWork2"><h2>2. Home Work #2</h2></a>
+
+###### Homework
+
+Save bitstamp messages to the local file system on a master node every minute
+
+Folder structure on local file system: /home/nifi/yyyy-MM-dd-HH-mm
+
+!DON'T FORGET TO STOP YOUR PROCESSORS AFTER TESTING!
+
+Good luck!
+
+-------
+###### *Result*
+Here is a result [Ni-Fi template file](https://raw.githubusercontent.com/metravl/BigDataTraining/main/HomeWork2/HW2_nifi_template.xml) with the result schema.
